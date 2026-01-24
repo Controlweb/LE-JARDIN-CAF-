@@ -64,7 +64,7 @@ export function Menu() {
               Consultez notre menu détaillé avec tous nos plats, boissons et tarifs
             </p>
             <Button size="lg" className="bg-primary hover:bg-primary/90 text-primary-foreground font-mono" asChild>
-              <a href="https://drive.google.com/your-menu-link" target="_blank" rel="noopener noreferrer">
+              <a href="/files/MENU LE JARDIN VERSION NEW.pdf" target="_blank" rel="noopener noreferrer">
                 Voir le Menu Complet
                 <ExternalLink className="w-4 h-4 ml-2" />
               </a>
